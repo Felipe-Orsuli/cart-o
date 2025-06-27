@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos Gerais',
-    'Quem foi a primeira pessoa a viajar no Espaço?',
-    'Yuri Gagarin'
+    'Esportes',
+    'Qual o atual campeão da Champions League?',
+    'Paris Saint-Germain'
 )
 
 criaCartao(
     'Conhecimentos Gerais',
-    'Qual a montanha mais alta do mundo?',
-    'Monte Everest'
+    'Qual é o maior país do mundo?',
+    'Rússia'
 )
 
 criaCartao(
-    'Conhecimentos Gerais',
-    'Onde se localiza Machu Picchu?',
-    'Peru'
+    'Esportes',
+    'Qual é o esporte mais assistido do mundo?',
+    'Futebol'
 )
 
 criaCartao(
     'Conhecimento Gerais',
-    'Que país tem o formato de uma bota?',
-    'Itália'
+    'Qual é o deserto mais extenso do mundo?',
+    'Saara'
 )
